@@ -70,7 +70,7 @@ var (
     DBFile       = "../scheduler.db"
     FullNextDate = true
     Search       = true
-    Token        = `` // Заполняется вручную для тестов с авторизацией
+    Token        = `` // Заполняется вручную для тестов с аутентификацией
 )
 ```
 

@@ -31,7 +31,4 @@ ENV TODO_DBFILE=/app/data/scheduler.db
 ENV TODO_PASSWORD="" 
 ENV TODO_SECRETKEY=""
 
-# Expose for documentation.
-EXPOSE 7540
-
 CMD ["./go-todo"]

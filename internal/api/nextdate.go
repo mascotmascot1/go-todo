@@ -284,7 +284,7 @@ func resolveDays(monthDaysInt []int, y, m int, loc *time.Location) []int {
 
 	for i, d := range monthDaysInt {
 		if d < 0 {
-			// d+1, потому что для -1 (последний день) нам нужно смещение 0 от первого числа следующего месяца
+			// d+1 becuase of we need the zero offset from first day of next month to get the last day of current month
 			realDay := time.Date(y, time.Month(m+1), d+1, 0, 0, 0, 0, loc).Day()
 			resolved[i] = realDay
 		} else {

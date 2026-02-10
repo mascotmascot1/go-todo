@@ -39,6 +39,13 @@ func Init(dbFile string) error {
 		return fmt.Errorf("error opening database '%s': %w", dbFile, openErr)
 	}
 
+	success := false
+	defer func() {
+		if !success {
+			db.Close()
+		}
+	}()
+
 	if needCreateDB {
 		_, err = db.Exec(schema)
 		if err != nil {
@@ -50,6 +57,8 @@ func Init(dbFile string) error {
 	if err := db.Ping(); err != nil {
 		return fmt.Errorf("error accessing database '%s': %w", dbFile, err)
 	}
+
+	success = true
 	return nil
 }
 
