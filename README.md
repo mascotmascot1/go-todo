@@ -34,6 +34,29 @@
 
 ---
 
+### 📸 Интерфейс приложения
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Главный экран</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./screenshots/general.png" width="700" alt="Main Tasks">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Добавление новой задачи</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./screenshots/addtask.png" width="700" alt="Add Task">
+    </td>
+  </tr>
+</table>
+
+---
+
 ### Инструкция по запуску
 
 #### Локальный запуск
