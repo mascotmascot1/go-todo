@@ -51,7 +51,6 @@ func Init(dbFile string) error {
 		if err != nil {
 			return fmt.Errorf("error applying database schema '%s': %w", dbFile, err)
 		}
-		return nil
 	}
 
 	if err := db.Ping(); err != nil {
