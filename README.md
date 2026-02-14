@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mascotmascot1/media/main/Art Loop GIF by tracheotommy.gif" width="250" height="200" alt="Todo App Preview">
+  <img src="https://raw.githubusercontent.com/mascotmascot1/media/main/in-use/go-todo.gif" width="250" height="200" alt="Todo App Preview">
 </p>
 
 <p align="center">
