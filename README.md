@@ -5,9 +5,9 @@
 <p align="center">
   <ins><b><font size="10">𝐆𝐎-𝐓𝐎𝐃𝐎 𝐀𝐏𝐏</font></b></ins>
 </p>
-
+https://github.com/mascotmascot1/go-todo/blob/main/LICENS
 <p align="center">
-  <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-1.25+-000000?style=for-the-badge&logo=go&logoColor=white"></a>&nbsp;<a href="https://github.com/mascotmascot1/go-todo/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Release-v1.0.0-000000?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;<a href="https://hub.docker.com/repository/docker/mascotmascot1/go-todo/general"><img src="https://img.shields.io/badge/Docker-Hub-000000?style=for-the-badge&logo=docker&logoColor=white"></a>&nbsp;<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=white"></a>
+  <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-1.25+-000000?style=for-the-badge&logo=go&logoColor=white"></a>&nbsp;<a href="https://github.com/mascotmascot1/go-todo/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Release-v1.0.0-000000?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;<a href="https://hub.docker.com/repository/docker/mascotmascot1/go-todo/general"><img src="https://img.shields.io/badge/Docker-Hub-000000?style=for-the-badge&logo=docker&logoColor=white"></a>&nbsp;<a href="https://github.com/mascotmascot1/go-todo/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=white"></a>
 </p>
 
 <br>
